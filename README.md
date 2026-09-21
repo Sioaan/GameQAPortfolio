@@ -2,7 +2,7 @@
 
 # 🎮 Game QA Portfolio
 
-### Manual QA • Game Testing • Bug Hunting • Quality Mindset
+### Manual QA • Game Testing • Bug Hunting • Speedrunner Mindset
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=I+play+games.+I+test+games.+I+break+games.;Turning+curiosity+into+structured+QA.;Exploring+gameplay%2C+systems%2C+performance+%26+bugs.;Building+my+Game+QA+journey+one+project+at+a+time." alt="Typing SVG" />
 
@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-I'm building my path into **Game QA / Manual QA** through practical testing projects.
+I'm building my path into **Game QA ** through practical testing projects.
 
 Gaming has always been more than just entertainment for me. I enjoy discovering how games work, exploring their systems, noticing small details, and asking questions such as:
 
@@ -42,31 +42,8 @@ I want to understand it, challenge it, break it, reproduce problems, document th
 # 🧪 What Is Game QA?
 
 Game QA is much more than checking whether a game launches.
-
 A QA tester investigates how different systems behave individually and together, looks for unexpected behavior, verifies fixes, and documents results in a way that developers can understand and reproduce.
-
-A typical workflow looks like this:
-
-```text
-        PLAN
-          ↓
-     DESIGN TESTS
-          ↓
-    EXECUTE TESTS
-          ↓
-   OBSERVE RESULTS
-          ↓
-   FIND / REPORT BUGS
-          ↓
-      RETEST FIXES
-          ↓
-      REGRESSION
-          ↓
-    FINAL REPORT
-```
-
 The goal is not simply to find bugs.
-
 The goal is to provide **useful information about product quality**.
 
 ---
