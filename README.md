@@ -507,13 +507,7 @@ Those questions are exactly what make testing interesting to me.
 
 For me, Game QA combines two things I enjoy:
 
-**🎮 Games**
-
-and
-
-**🔎 Problem solving**
-
-That combination is what motivates me to keep learning and improving.
+Games and Looking for a bugs
 
 ---
 
@@ -589,7 +583,7 @@ And there is always another bug waiting to be found.
 
 <div align="center">
 
-## 🎮 Play. Speedrun. Test. Break. Improve.
+## 🎮 Play. Break. Speedrun. Test. Improve.
 
 <br>
 
