@@ -1,5 +1,4 @@
-[Game QA Portfolio — GitHub README.md](https://github.com/user-attachments/files/32475826/Game.QA.Portfolio.GitHub.README.md)
-<div align="center">
+
 
 # 🎮 Game QA Portfolio
 
@@ -178,7 +177,6 @@ PASS / FAIL
 
 Functional testing focuses on whether individual features work correctly.
 
----
 
 ## 🔍 Exploratory Testing
 
@@ -197,16 +195,15 @@ Return to gameplay
       ↓
 Change weapon
       ↓
-Save
+     Save
       ↓
-Load
+    Load
       ↓
 Check whether the original setting survived
 ```
 
 Exploratory testing is especially useful for discovering unexpected interactions between systems.
 
----
 
 ## 🔄 Regression Testing
 
@@ -295,8 +292,6 @@ Examples:
 - Navigation
 - Visual states
 
-The tester checks not only whether the UI exists, but whether it behaves correctly.
-
 ---
 
 ## 🔊 Audio Testing
@@ -314,8 +309,6 @@ Examples:
 - Volume settings
 - Mute behavior
 - Missing or overlapping audio
-
-Audio issues can strongly affect immersion, so they are part of the overall testing process.
 
 ---
 
@@ -342,10 +335,6 @@ Examples:
 # 🐞 Bug Reporting
 
 Finding a bug is only the beginning.
-
-A useful bug report should allow another person to understand and reproduce the issue without needing a long explanation.
-
-A typical report contains:
 
 | Field | Purpose |
 |---|---|
@@ -378,13 +367,13 @@ Used when a feature needs a structured verification flow.
 ```text
 Preconditions
       ↓
-Steps
+    Steps
       ↓
 Expected Result
       ↓
 Actual Result
       ↓
-Status
+   Status
 ```
 
 ### Checklist
@@ -400,17 +389,9 @@ Used when a faster verification pass is more practical.
 ☐ UI
 ☐ Exit
 ```
-
-Test Cases provide detail.
-
-Checklists provide speed and coverage.
-
 ---
 
 # 🧠 Edge Cases
-
-One of the parts of QA I enjoy most is thinking about things a normal player might do accidentally or unexpectedly.
-
 Examples:
 
 - Save during combat
@@ -506,7 +487,7 @@ The tools may change over time, but the core QA process stays the same:
 
 ---
 
-# ❤️ Why Game QA?
+# ❤️ Why i choose Game QA?
 
 Because I genuinely enjoy games.
 
@@ -608,9 +589,7 @@ And there is always another bug waiting to be found.
 
 <div align="center">
 
-## 🎮 Test. Break. Investigate. Improve.
-
-### Building my Game QA portfolio — one game at a time.
+## 🎮 Play. Speedrun. Test. Break. Improve.
 
 <br>
 
