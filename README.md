@@ -1,6 +1,6 @@
 
 
-# 🎮 Game QA Portfolio
+# Game QA Portfolio
 
 ### Manual QA • Game Testing • Bug Hunting • Speedrunner Mindset
 
@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-I'm building my path into **Game QA ** through practical testing projects.
+I'm building my path into Game QA through practical testing projects.
 
 Gaming has always been more than just entertainment for me. I enjoy discovering how games work, exploring their systems, noticing small details, and asking questions such as:
 
@@ -39,7 +39,7 @@ I want to understand it, challenge it, break it, reproduce problems, document th
 
 ---
 
-# 🧪 What Is Game QA?
+# What Is Game QA?
 
 Game QA is much more than checking whether a game launches.
 A QA tester investigates how different systems behave individually and together, looks for unexpected behavior, verifies fixes, and documents results in a way that developers can understand and reproduce.
@@ -48,9 +48,9 @@ The goal is to provide **useful information about product quality**.
 
 ---
 
-# 🎯 What I Test
+#  What I Test
 
-## 🎮 Gameplay
+## Gameplay
 
 - Movement
 - Combat
@@ -63,7 +63,7 @@ The goal is to provide **useful information about product quality**.
 - Difficulty behavior
 - Scripted events
 
-## 🔫 Game Systems
+## Game Systems
 
 - Weapons
 - Ammunition
@@ -76,7 +76,7 @@ The goal is to provide **useful information about product quality**.
 - Collision
 - Interactions
 
-## 🖥️ Technical Areas
+##  Technical Areas
 
 - Performance
 - FPS stability
@@ -89,7 +89,7 @@ The goal is to provide **useful information about product quality**.
 - Display modes
 - Audio devices
 
-## 🎨 Presentation
+##  Presentation
 
 - UI / HUD
 - Menus
@@ -104,9 +104,9 @@ The goal is to provide **useful information about product quality**.
 
 ---
 
-# 🔬 Types of Testing
+#  Types of Testing
 
-## 🚀 Smoke Testing
+##  Smoke Testing
 
 **Question:** Does the build work well enough to begin deeper testing?
 
@@ -132,7 +132,7 @@ Smoke testing is usually quick and focuses on critical functionality.
 
 ---
 
-## ✅ Functional Testing
+##  Functional Testing
 
 **Question:** Does a feature behave according to its requirements?
 
@@ -155,7 +155,7 @@ PASS / FAIL
 Functional testing focuses on whether individual features work correctly.
 
 
-## 🔍 Exploratory Testing
+## Exploratory Testing
 
 **Question:** What happens when I explore the system beyond predefined test cases?
 
@@ -182,7 +182,7 @@ Check whether the original setting survived
 Exploratory testing is especially useful for discovering unexpected interactions between systems.
 
 
-## 🔄 Regression Testing
+## Regression Testing
 
 **Question:** Did a fix solve the problem without introducing another one?
 
@@ -204,7 +204,7 @@ Regression testing is essential because fixing one system can sometimes affect a
 
 ---
 
-## ⚙️ Performance Testing
+##  Performance Testing
 
 **Question:** Does the game remain responsive under different workloads?
 
@@ -234,7 +234,7 @@ Responsiveness
 
 ---
 
-## 💻 Compatibility Testing
+##  Compatibility Testing
 
 **Question:** Does the game behave correctly across different environments?
 
@@ -253,7 +253,7 @@ Compatibility testing helps identify issues that may not appear on the primary t
 
 ---
 
-## 🖥️ UI Testing
+##  UI Testing
 
 **Question:** Is the interface functional, readable and consistent?
 
@@ -271,7 +271,7 @@ Examples:
 
 ---
 
-## 🔊 Audio Testing
+## Audio Testing
 
 **Question:** Does sound behave correctly in context?
 
@@ -289,7 +289,7 @@ Examples:
 
 ---
 
-## 🎨 Graphics Testing
+## Graphics Testing
 
 **Question:** Are visual elements rendered correctly?
 
@@ -309,7 +309,7 @@ Examples:
 
 ---
 
-# 🐞 Bug Reporting
+# Bug Reporting
 
 Finding a bug is only the beginning.
 
@@ -333,7 +333,7 @@ The objective is simple:
 
 ---
 
-# 📋 Test Cases & Checklists
+# Test Cases & Checklists
 
 I use both detailed **Test Cases** and lightweight **Checklists**.
 
@@ -368,7 +368,7 @@ Used when a faster verification pass is more practical.
 ```
 ---
 
-# 🧠 Edge Cases
+# Edge Cases
 Examples:
 
 - Save during combat
@@ -386,7 +386,7 @@ These scenarios can reveal issues that normal testing may miss.
 
 ---
 
-# 📊 Severity vs Priority
+# Severity vs Priority
 
 A useful QA distinction:
 
@@ -416,7 +416,7 @@ A bug can have high severity but different priority depending on the context and
 
 ---
 
-# 🗂️ Portfolio Structure
+# Structure
 
 ```text
 Game-QA-Portfolio/
@@ -464,52 +464,42 @@ The tools may change over time, but the core QA process stays the same:
 
 ---
 
-# ❤️ Why i choose Game QA?
+#  Why i choose Game QA?
 
 Because I genuinely enjoy games.
-
 I can spend hours playing a game and wondering how its systems work behind the scenes.
-
 Why does an enemy react this way?
-
 Why did that animation break?
-
 Why did the UI reset?
-
 Why does the game stutter only in one situation?
-
 Why does the bug appear after a specific sequence of actions?
-
 Those questions are exactly what make testing interesting to me.
-
-For me, Game QA combines two things I enjoy:
-
-Games and Looking for a bugs
+For me, Game QA combines two things I enjoy:Games and Looking for a bugs
 
 ---
 
-# 🚀 Growing This Portfolio
+#  Growing This Portfolio
 
 This repository is **continuously evolving**.
 
 I plan to expand it over time with:
 
 ```text
-🎮 More games
+ More games
       ↓
-🧪 More test cases
+ More test cases
       ↓
-🔍 More exploratory testing
+ More exploratory testing
       ↓
-🐞 More real-world bug reports
+ More real-world bug reports
       ↓
-⚙️ More performance testing
+ More performance testing
       ↓
-💻 More compatibility testing
+ More compatibility testing
       ↓
-🔄 More regression scenarios
+ More regression scenarios
       ↓
-📊 Better reports
+Better reports
 ```
 
 New projects will be added gradually as I test different games, genres and technical environments.
@@ -530,7 +520,7 @@ Every new project is an opportunity to improve:
 
 ---
 
-# 🌱 My QA Journey
+#  My QA Journey
 
 This repository is also a record of my progress.
 
